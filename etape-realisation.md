@@ -1,1 +1,5 @@
 # recette-cookie
+- Détailler le chocolat en pépites
+- Préchauffer le four à 180°C (thermostat 6).
+- Dans un saladier, mettre 75 g de beurre, le sucre, l'oeuf entier, la vanille et mélanger
+- le tout.
